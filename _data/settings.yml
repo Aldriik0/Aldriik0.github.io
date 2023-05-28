@@ -116,7 +116,7 @@ portfolio-label:
   - { title: "UI/UX Design", type: "design" }
   #- { title: "BRANDING", type: "branding" }
   #- { title: "ILLUSTRATION", type: "illustration" }
-  - { title: "Game Desing", type: "game design"}
+  - { title: "Game Design", type: "game design"}
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
@@ -125,49 +125,7 @@ portfolio-items:
       - type: "design"
       - type: "game design"
 
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-
-  - image: "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
+  
 #-------------------------------
 # Testimonials Section
 
