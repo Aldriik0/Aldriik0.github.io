@@ -2,10 +2,10 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Connor Jones
 logo:
 author: themefisher
-description: this is meta description
+description: This is a webpage to display the portfolio/resume of Connor Jones
 email: c.jones54166@gmail.com
 phone: (830) 333-5864
 address: 125/A, CA Commercial Area, California, USA
@@ -69,10 +69,6 @@ work-process:
 
 skills-title: Skills
 skills:
- # - { name: Web Design, color: "#fdb157", value: "90%" }
- # - { name: Logo Design, color: "#9473e6", value: "60%" }
- # - { name: After Effects, color: "#bdecf6", value: "80%" }
- # - { name: Web App, color: "#ffbcaa", value: "70%" }
    - { name: Software Development, color: "#9473e6", value: "80%" }
    - { name: data management, color: "#bdecf6", value: "70%" }
 
@@ -114,8 +110,6 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
   - { title: "UI/UX Design", type: "design" }
-  #- { title: "BRANDING", type: "branding" }
-  #- { title: "ILLUSTRATION", type: "illustration" }
   - { title: "Game Design", type: "game design"}
 
 portfolio-items:
