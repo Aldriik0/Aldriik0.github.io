@@ -111,18 +111,6 @@ portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "https://github.com/Aldriik0/Connect4Project"
 
-  - image: "assets/images/portfolio/item-2.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-4.png"
-    url: "#"
-
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
-
 # Portfolio Page
 portfolio-label:
   - { title: "UI/UX Design", type: "design" }
