@@ -69,10 +69,12 @@ work-process:
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+ # - { name: Web Design, color: "#fdb157", value: "90%" }
+ # - { name: Logo Design, color: "#9473e6", value: "60%" }
+ # - { name: After Effects, color: "#bdecf6", value: "80%" }
+ # - { name: Web App, color: "#ffbcaa", value: "70%" }
+   - { name: Software Development, color: "#9473e6", value: "80%" }
+   - { name: data management, color: "#bdecf6", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
@@ -80,7 +82,7 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Database & Software Specialist,
+      name: Data Management,
       icon: "icon-1.png",
       date: "May 2023 - Aug 2023",
       organization: "Mi Vida/Julien's",
