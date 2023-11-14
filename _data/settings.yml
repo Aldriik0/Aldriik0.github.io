@@ -85,10 +85,10 @@ experience:
     }
     
   - {
-      name: Teaching Assistant
-      icon: "icon-2.png"
-      date: "Sep 2023 - Present"
-      organization: "Gonzaga School of Engineering & Applied Science"
+      name: Teaching Assistant,
+      icon: "icon-2.png",
+      date: "Sep 2023 - Present",
+      organization: "Gonzaga School of Engineering & Applied Science",
     }
   
 
