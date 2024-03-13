@@ -106,6 +106,8 @@ education:
 portfolio-home-items:
   - image: "assets/images/portfolio/item-2.png"
     url: "https://github.com/Aldriik0/Connect4Project"
+  - image: "assets/images/portfolio/item-9.png"
+    url: "https://github.com/Aldriik0/Triumph-Tree"
 
 # Portfolio Page
 portfolio-label:
