@@ -3,7 +3,6 @@ layout: about
 title: About Me
 author: Connor Jones
 image: assets/images/about/author.jpg
-signature: assets/images/about/signature.png
 ---
 
 Grew up in Northern Wisconsin and finished my lower education in South Texas finding my love for<br>
