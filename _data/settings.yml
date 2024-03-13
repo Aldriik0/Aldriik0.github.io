@@ -127,6 +127,11 @@ portfolio-items:
     portfolio-type:
       - type: "design"
       - type: "game design"
+  - image: "assets/images/portfolio/item-9.png"
+    url: "https://github.com/Aldriik0/Triumph-Tree"
+    portfolio-type:
+        - type: "design"
+        - type: "Mobile App"
 
   
 #-------------------------------
