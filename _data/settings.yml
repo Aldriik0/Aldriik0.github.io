@@ -83,6 +83,13 @@ experience:
       date: "May 2023 - Aug 2023",
       organization: "Mi Vida/Julien's",
     }
+    
+  - {
+      name: Teaching Assistant,
+      icon: "icon-2.png",
+      date: "Sep 2023 - Present",
+      organization: "Gonzaga School of Engineering & Applied Science",
+    }
   
 
 #-------------------------------

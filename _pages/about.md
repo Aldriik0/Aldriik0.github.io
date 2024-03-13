@@ -6,13 +6,19 @@ image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Grew up in Northern Wisconsin and finished my lower education in South Texas finding my love for<br>
+programming in robotics. Joined the Uvalde HS Robotics team as the lead programmer and competed in<br>
+the group's first BEST Robotics competition. Academic competitor in Texas UIL finding my best finish<br>
+in the Computer Science competition at super regionals in San Antonio Texas. From these high school<br>
+competitions I became self-taught to code in C and Java.<br>
+<br>
+Currently pursuing my Bachelor of Science in Computer Science at Gonzaga University in the lovely<br>
+Spokane Washington. The topics of my coursework have been in Data Science, Algorithms, Database<br>
+Systems & Management, Mobile Application Development, Machine Learning & Artificial Intelligence, and<br>
+Software Development. I have interest in Chaos Computing, Hardware Programming, and Machine Learning<br>
+with respect to Chaos Computing.<br>
+<br>
+I have working experience in Data Management during the 2023 Summer, in the experience I worked<br>
+with the Julien's/Mi Vida team to develop, organize, the storage, and the analyzation of data within<br>
+their system. I was also responsible for identifying the queries needed from software solution architects<br>
+to help integrate their database with new software for the company.<br>
