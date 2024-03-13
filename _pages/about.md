@@ -2,7 +2,7 @@
 layout: about
 title: About Me
 author: Connor Jones
-image: assets/images/about/professional portrait/jfif
+image: assets/images/about/author.jpeg
 signature: assets/images/about/signature.png
 ---
 
