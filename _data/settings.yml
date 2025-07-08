@@ -42,7 +42,7 @@ hero:
 # About (Section and Page)
 
 # About Section
-blurb: A student at Gonzaga University studying computer science with increasing knowledge of various coding languages, who has become a dependable and responsible problem solver, with great time management skills. A quick and passionate learner that loves to learn new things while building on and engaging the knowledge of skills currently in possession. With experience in working with databases and software to help stores keep accurate data at all times.
+blurb: A software engineer at InfoTech NorthStar LLC and a master's student at Uppsala University pursuing my passion for embedded systems
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -80,15 +80,22 @@ experience:
   - {
       name: Data Management,
       icon: "icon-1.png",
-      date: "May 2023 - Aug 2023",
+      date: "May 2023 - Aug 2024",
       organization: "Mi Vida/Julien's",
     }
     
   - {
       name: Teaching Assistant,
       icon: "icon-2.png",
-      date: "Sep 2023 - Present",
+      date: "Sep 2023 - May 2025",
       organization: "Gonzaga School of Engineering & Applied Science",
+    }
+  
+  - {
+      name: Software Engineer,
+      icon: "icon-3.png",
+      date: "May 2025 - Present",
+      organization: "InfoTech NorthStar LLC",
     }
   
 
@@ -101,6 +108,12 @@ education:
       name: Bachelor of Science in Computer Science,
       date: "2025",
       organization: "Gonzaga University",
+    }
+  
+  - {
+      name: Master of Science in Embedded Systems,
+      date: "2027",
+      organization: "Uppsala University"
     }
 
 #-------------------------------
@@ -115,11 +128,14 @@ portfolio-home-items:
     url: "https://github.com/Aldriik0/Connect4Project"
   - image: "assets/images/portfolio/item-9.png"
     url: "https://github.com/Aldriik0/Triumph-Tree"
+  - image: "assets/images/portfolio/item-10.png"
+    url: "https://github.com/Aldriik0/myPL-Programming-Language"
 
 # Portfolio Page
 portfolio-label:
   - { title: "UI/UX Design", type: "design" }
   - { title: "Game Design", type: "game design"}
+  - { title: "Software Development", type: "software"}
 
 portfolio-items:
   - image: "assets/images/portfolio/item-2.png"
@@ -132,6 +148,11 @@ portfolio-items:
     portfolio-type:
         - type: "design"
         - type: "Mobile App"
+  - image: "assets/images/portfolio/item-10.png"
+    url: "https://github.com/Aldriik0/myPL-Programming-Language"
+    portfolio-type:
+        - type: "design"
+        - type: "software"
 
   
 #-------------------------------
